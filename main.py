@@ -12,4 +12,4 @@ def Factorial(n):
 if __name__ == '__main__':
     print('Waiting for input n...')
     n = 0.5
-    print(f'for n ={n}, factorial = {Factorial_error(n)}')
+    print(f'for n ={n}, factorial = {Factorial(n)}')
